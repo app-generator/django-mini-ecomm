@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.3] 2022-10-25
+### Improvements
+
+- Use Real Data (AppSeed Test Dashboard)
+  - Django Datta PRO
+  - Django Black PRO
+  - Django MKit2 PRO
+
 ## [1.0.2] 2022-10-25
 ### Improvements
 
