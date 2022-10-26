@@ -31,8 +31,8 @@ https://user-images.githubusercontent.com/51070104/196485430-1fdbc67d-b532-4b5c-
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/sample-django-stripe.git
-$ cd sample-django-stripe
+$ git clone https://github.com/app-generator/django-mini-ecomm.git
+$ cd django-mini-ecomm
 ```
 
 <br />
